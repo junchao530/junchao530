@@ -1,6 +1,6 @@
-## Jun Chao 
+# Jun Chao 
 
-**'Third Year Electrical Engineering and Computer Sceince Student at the University of Calgary'**
+**`Third Year Electrical Engineering and Computer Sceince Student at the University of Calgary`**
 
 <!--
 **junchao530/junchao530** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
