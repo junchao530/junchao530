@@ -1,7 +1,9 @@
 # Jun Chao 
 **`ECE and CS student @Ucalgary`**
 
-Hi I'm Jun Chaio a third year Electrical Engineering and Computer Science student at the University of Calgary and this github page is a collection of both my academic as well as my passion projects!
+Hi, I’m Jun Chao, a third-year Electrical Engineering and Computer Science student at the University of Calgary. 
+
+This GitHub page is a collection of both my academic and passion projects!
 
 [![Linkedin Badge](https://img.shields.io/badge/-junchao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jun-chao/)](https://www.linkedin.com/in/jun-chao/)
 [![Gmail Badge](https://img.shields.io/badge/-junchao530-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junchao530@gmail.com)](mailto:junchao530@gmail.com)
