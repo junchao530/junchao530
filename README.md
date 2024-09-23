@@ -6,9 +6,38 @@ Hi I'm Jun Chaio a third year Electrical Engineering and Computer Science studen
 [![Linkedin Badge](https://img.shields.io/badge/-junchao-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jun-chao/)](https://www.linkedin.com/in/jun-chao/)
 [![Gmail Badge](https://img.shields.io/badge/-junchao530-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:junchao530@gmail.com)](mailto:junchao530@gmail.com)
 
-Completed an Internship at <a href="https://dai-labor.de/en/home/">DAI-Labor</a>, on project <a href="https://be-intelli.com/">Beintelli</a> where I contributed to the Beintelli project by developing a ROS2 data processing and visualization pipeline. This pipeline was specifically designed to prepare custom data in the KITTI format for extensive testing of <a href="https://github.com/IIPCVLAB/LCCNet">LCCnet</a>.
+### Current Interests:
 
-## Notable Projects:
+- Hardware and Software applications of Robotics and Autonomous Vechiles
+- Machine Learning and Computer Vision
+
+### Languages I use:
+ - Very comfortable with (proficient):
+    **C/C++,  Python,**
+   
+ - Will need Documentation:
+    **JavaScript, React, Java**
+
+ - Tools:
+    <br>
+    Technology: **Linux, ROS2 (Robot Operating System), Arduino**
+    <br>
+    Version Control: **Git**
+    <br>
+    Some Designing: **LTSpice**
+    <br>
+    
+
+
+## Expereince:
+
+Completed an internship at <a href="https://dai-labor.de/en/home/">DAI-Labor</a>, on project <a href="https://be-intelli.com/">Beintelli</a> as a member of the Advanced Driver Assistance Systems team. (May, 2024 - Aug 2024)
+ 
+Completed a research internship at <a href="https://ucalgary.ca/labs/geothermal-energy/centre"> GEOS</a>, contirbuting on their open source geothermal drilling data analytic web app. (May, 2023 - Aug 2023)
+ 
+
+
+
 
 
 
