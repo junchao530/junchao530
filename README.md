@@ -31,7 +31,7 @@ This GitHub page is a collection of both my academic and passion projects!
     
 
 
-## Expereince:
+## Experience:
 
 Completed an internship at <a href="https://dai-labor.de/en/home/">DAI-Labor</a>, on project <a href="https://be-intelli.com/">Beintelli</a> as a member of the Advanced Driver Assistance Systems team. (May, 2024 - Aug 2024)
  
