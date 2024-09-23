@@ -10,7 +10,7 @@ This GitHub page is a collection of both my academic and passion projects!
 
 ### Current Interests:
 
-- Hardware and Software applications of Robotics and Autonomous Vechiles
+- Hardware and Software applications of Robotics and Autonomous Vehicles
 - Machine Learning and Computer Vision
 
 ### Languages I use:
